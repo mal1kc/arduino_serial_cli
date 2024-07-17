@@ -1,0 +1,12 @@
+.pio
+.clang_complete
+.ccls
+.cache
+*.el
+*.hex
+*.exe
+*.elf
+*.bin
+compile_commands.json
+# platformio can generate this
+.vscode/c_cpp_properties.json
